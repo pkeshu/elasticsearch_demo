@@ -1,0 +1,6 @@
+
+spring:
+  data:
+    elasticsearch:
+      cluster-name: keshar-testing
+      cluster-nodes: localhost:9200
